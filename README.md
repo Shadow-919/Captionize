@@ -96,6 +96,12 @@ The model was trained using the **MSCOCO 2014** dataset, a large-scale benchmark
 
 ---
 
+## 💡 Author
+**Developed by [Aditya Shinde](https://github.com/Shadow-919)**  
+📧 *adityashinde54321@gmail.com*
+
+---
+
 ## 🚫 Note
 
 > This project is shared for **demonstration purposes only**.  
