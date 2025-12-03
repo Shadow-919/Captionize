@@ -2,13 +2,13 @@
 
 **An end-to-end deep learning project that generates human-like captions for any given image using an Encoder-Decoder architecture and serves it via a web interface built with Flask.**
 
-🔗 **Live Website:** [Link](https://captionize-83uo.onrender.com/)
+## 🔗 **Live Website:** [Link](https://captionize-83uo.onrender.com/)
 
 ---
 
 ## 🧠 What is Image Captioning?
 
-Image captioning is the task of generating a **natural language description** for an image. It combines the power of **Computer Vision** and **Natural Language Processing**, enabling machines to understand and describe visual content — just like a human.
+Image captioning is the task of generating a **natural language description** for an image. It combines the power of **Computer Vision** and **Natural Language Processing**, enabling machines to understand and describe visual content just like a human.
 
 This project implements a high-performance captioning model and deploys it as a fully functional **web app**.
 
