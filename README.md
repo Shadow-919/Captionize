@@ -2,7 +2,7 @@
 
 **An end-to-end deep learning project that generates human-like captions for any given image using an Encoder-Decoder architecture and serves it via a web interface built with Flask.**
 
-## 🔗 **Live Website:** [Link](https://captionize-83uo.onrender.com/)
+## 🔗 **Live Website:** [Link](https://captionize-8dsx.onrender.com)
 
 ---
 
